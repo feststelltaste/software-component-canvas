@@ -17,3 +17,62 @@ This is a slightly polished version of the original. It's not documented in deta
 2. Connect all the systems based on the information of the individual systems (e.g., by using the context diagram or collaboration information).
 3. Get a kind of inventory, including relationships between the systems.
 4. Be happy because now you know what systems there are!
+
+And then? You have a good starting point to dig deeper! E.g. start thinking about which systems to improve or get rid of, align the team organization or begin to document the software architecture. Those steps depend heavily on your specific context and problem situation.
+
+## References
+Here I list where all the ideas from the sections come from (roughly in order of appearance)
+
+### arc42
+https://arc42.org/
+- Component name
+- Short description
+- Main stakeholders
+- Responsibility / accountability
+- Top 3 quality goals
+- Context diagram
+
+### aim42
+http://aim42.github.io/
+- Top 3 challenges
+
+### Bounded Context Canvas
+https://github.com/ddd-crew/bounded-context-canvas
+- Strategic classification -> Importance for the business
+- Provided capability
+- Collaboration with other compoments
+
+### Gregor Hophe
+https://files.gotocon.com/uploads/slides/conference_7/282/original/Enterprise%20Architecture%20Architecting%20the%20Enterprise.pdf, slide 8
+- Visibility on C-level
+
+### Wardley Maps
+https://medium.com/wardleymaps
+- Visibility for customers (adopted value chain)
+- Evolution of the component
+- Development process, teams and activities -> Personalities
+
+### Cloud Native Transformation Patterns
+https://www.cnpatterns.org/
+-  Development process, teams and activities -> Process, Drive Mode, Organization
+
+### Team Topologies
+https://teamtopologies.com/
+- Development process, teams and activities -> Types
+
+### Own work
+- Technical key facts
+- Development process, teams and activities -> Teams key facts
+
+### DORA report
+https://www.devops-research.com/research.html
+- Development process, teams and activities -> Teams key facts
+- Technical key facts
+
+### cards42* 
+https://cards42.org/
+- Development process, teams and activities -> Best Pracitices  
+
+\* actually kind of, because cards42 is partly my own work, too
+
+
