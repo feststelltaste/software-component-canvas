@@ -42,7 +42,7 @@ https://github.com/ddd-crew/bounded-context-canvas
 - Provided capability
 - Collaboration with other compoments
 
-### Gregor Hophe
+### Gregor Hohpe
 https://files.gotocon.com/uploads/slides/conference_7/282/original/Enterprise%20Architecture%20Architecting%20the%20Enterprise.pdf, slide 8
 - Visibility on C-level
 
