@@ -20,6 +20,16 @@ This is a slightly polished version of the original. It's not documented in deta
 
 And then? You have a good starting point to dig deeper! E.g. start thinking about which systems to improve or get rid of, align the team organization or begin to document the software architecture. Those steps depend heavily on your specific context and problem situation.
 
+## Sections in detail
+_unfinished for now, but better than nothing_
+
+### Component name
+Write down the official name of the component. Write also down possible abbreviations or nicknames of the component. This is important because later on, you'll talk to different people and see different artifacts that may mention this very same component under different names.
+
+### Short description
+Write down in 1-2 sentences what this component is roughly. It should be enough to remind yourself later on if you want to get more details about it.
+Also, make sure you add a hint what this component is (system, module, batch process etc.)
+
 ## References
 Here I list where all the ideas from the sections come from (roughly in order of appearance)
 
