@@ -87,6 +87,6 @@ https://cards42.org/
 
 ## FAQ
 
-### Isn't there a missmatch between a software component and teams?
+### Isn't there a mismatch between a software component and teams?
 Probably! Depending on the abstraction level of the component, one team can be responsible for multiple components or a component can have multiple teams that are responsible for it. You can use the canvas then by referencing the sections regarding the teams for multiple components or vice versa.
 
